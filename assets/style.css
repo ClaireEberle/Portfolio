@@ -21,7 +21,6 @@ h1 {
     font-size: 200%;
     color: beige;
     background: var(--borders);
-    /* color: slategrey; */
     position: relative;
     right: 15px;
 
@@ -41,7 +40,6 @@ nav ul {
 
 nav a {
     font-weight: bold;
-    /* text-decoration: none; */
     color: beige;
 }
 
@@ -57,7 +55,6 @@ nav a {
     display: block;
     height:80%;
     width:20%;
-    /* background-image:url("./images/me1.png") ; */
     position:relative;
     right: 5px;
     bottom:5px;
@@ -90,12 +87,6 @@ justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
 }
-
-/* .second{
-display:flex;
-justify-content:center;
-width:90%;
-} */
 
 .ref-img {
     background-image: url("./images/stars.jpg");
@@ -213,8 +204,4 @@ footer ul li {
             flex-direction: column;
         }
     }
-/* @media screen and (max-width:660px){
-    footer ul {
-        flex-direction: column;
-    }
-} */
+
