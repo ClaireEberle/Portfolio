@@ -1,4 +1,7 @@
 # Portfolio
+<div align="center">
+<img src="/assets/images/portfolioimg.png" width="400px"></img>
+</div>
 
 ## Description
 
