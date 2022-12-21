@@ -1,7 +1,5 @@
 # Portfolio
-<div align="center">
-<img src="/assets/images/portfolioimg.png" width="400px"></img>
-</div>
+https://github.com/ClaireEberle/Portfolio/blob/b30656f5021e21a5fed2c30900c0f96194ba7f47/assets/images/portfolioimg.png
 
 ## Description
 
