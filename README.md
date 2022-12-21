@@ -5,6 +5,9 @@ https://github.com/ClaireEberle/Portfolio/blob/b30656f5021e21a5fed2c30900c0f9619
 
 This is a webpage designed to be my professional portfolio with attached links to my GitHub repository, other sites I have created, and my contact information. This site utilises and demonstrates my ability to use HTML an CSS. 
 
+GitHub repository: https://github.com/ClaireEberle/Portfolio
+Site Link: https://claireeberle.github.io/Portfolio/
+
 ## Installation
 
 N/A
