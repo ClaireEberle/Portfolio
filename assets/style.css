@@ -89,7 +89,7 @@ justify-content: space-between;
 }
 
 .ref-img {
-    background-image: url("./images/stars.jpg");
+    background-image: url("./images/save-your-seat.png");
     height:300px;
     width:530px;
     background-size: cover;
@@ -101,10 +101,10 @@ justify-content: space-between;
     
 }
 .css-img {
-    background-image: url("./images/mountains.jpg");
+    background-image: url("./images/stream2.png");
     height:200px;
     width:250px;
-    background-image: cover;
+    background-image: center;
     margin-top:3%;
     margin-right:3%;
     margin-left:3px;
